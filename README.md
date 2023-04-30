@@ -11,5 +11,5 @@ We Created Our First Project as a team (DevWEB) by developing a model Website Fo
 Team Members:
 
 Buddhi Sagar Panjiyar (@iam-buddhi)
-Mahavir Sancheti (@Mahavir2112)
-Dhiraj Kumar Sinha (@rajSru07)
+    Mahavir Sancheti (@Mahavir2112)
+    Dhiraj Kumar Sinha (@sruRaj07)
