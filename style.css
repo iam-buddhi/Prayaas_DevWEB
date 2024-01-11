@@ -1,58 +1,51 @@
 @import url('https://fonts.googleapis.com/css2?family=Bruno+Ace&family=Libre+Baskerville&family=Martian+Mono&family=Playfair+Display&family=Staatliches&display=swap');
 
 /* Container holding the image and the text */
-    *{
-           margin: 0;
-           padding: 0;
+    * {
+           margin: 0px;
+           padding: 0px;
            
        }
-.container {
- position: relative;
- text-align: center;
-}
-
-/* Bottom left text */
-.bottom-left {
- position: absolute;
- bottom: 8px;
- left: 16px;
-}
 
 .nav-links {
-   color: rgb(77, 138, 236);
-   flex-basis: 730px; 
- position: absolute;
- top:  2rem;
- LEFT: 45rem;
+color: rgb(77, 138, 236);
+flex-basis: 730px; 
+position: absolute;
+top: 3%;
+left: 37%;
 }
 
 .logo-text1 {
  position: absolute;
- top: 4rem;
- left: 18rem;
+ top: 5%;
+ left: 15%;
  font-family: 'Staatliches', cursive;
 }
 .logo-text2 {
  position: absolute;
- top:  6rem;
- LEFT: 18rem;
+ top: 9%;
+ left: 15%;
  font-family: 'Staatliches', cursive;
-}
-.donate {
- position: absolute;
- top: 0.65rem;
- left:89rem;
 }
 
 /* Top left text */
 .top-left{
-  
- position: absolute;
+position: absolute;
  top: 8px;
- left: 16px;
+ left: 0px;
 }
 
 
+
+
+
+.aboutus{
+   font-weight: bold;
+   color: orange;
+   margin-bottom: 3%;
+   font-size: 45px;
+   text-align: center;
+}
 
 /* Bottom right text */
 .bottom-right {
@@ -208,30 +201,18 @@ a:hover{
    transition: 0.4s;
 }
 .donate img:hover{
-   height: 6em;
-   width: 13em;
+   height: 37px;
+   
 }
 .donate button{
-   width: 130px;
-   height: 60px;
+   height: 35px;
    font-size: 17px;
    border-radius: 15px;
    border: 2px white;
    transition: 0.5s;
    background-color: orange;
 }
-.donate button:hover{
-   width: 135px;
-   height: 65px;
-   font-size: 19px;
-   background-color: black;
-   color: white;
-   box-shadow: 7px 7px 10px rgb(113, 111, 111);
 
-}
-.container img{
-   width: 100%;
-}
 .projects{
    text-align: center;
 }
@@ -241,31 +222,18 @@ a:hover{
    width: 20%;
    padding: 5px;
  }
- 
- 
-table {
-       border-collapse: collapse;
-       width: 100%;
-       background-color: transparent;
-       text-align: center;
-     }
-.tableno2{
-   border-collapse: separate;
- 
-   margin-bottom: 200px;
-       width: 60%;
-       background-color: transparent;
-       text-align: center;
-       padding: 0px;
 
+.projtext{
+   padding: 8px;
+   text-align: center;
+   font-weight: 800;
 }
-
-
-     /* Set table cell padding and border */
-     td {
-       padding: 10px;
-       ;
-     }
+ .tableno2{
+   margin-bottom: 80px;
+ }
+    .fake{
+      color: white;
+    }
      
      /* Set image size and margin */
      .image1{
@@ -297,18 +265,21 @@ table {
        text-align: justify;
        padding-left: 100px;
      }
+
+
      .project{
    text-align: center;
    color: orange;
    font-size: 50px;
-   font-family: 'Playfair Display';
+   margin-bottom: 20PX;
+  
+   
 } 
+
+
 /* merchandise */
-
-
-
-   swiper-container {
-     width: 1500px;
+swiper-container {
+     width: 1000px;
      height: 500px;
    }
 
