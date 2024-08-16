@@ -12,4 +12,5 @@ Team Members:
 
 Buddhi Sagar Panjiyar (@iam-buddhi)
     Mahavir Sancheti (@Mahavir2112)
+    and Dhiraj Kumar Sinha
     
